@@ -1,0 +1,75 @@
+[
+  {
+    "name": "Кравцова Александра",
+    "photo": "./img/Oval.png",
+    "age": 26,
+    "sex": "жен"
+  },
+  {
+    "name": "Рожков Денис",
+    "photo": "./img/Den.png",
+    "age": 30,
+    "sex": "муж"
+  },
+  {
+    "name": "Кравцова Александра",
+    "photo": "./img/Oval.png",
+    "age": 26,
+    "sex": "жен"
+  },
+  {
+    "name": "Диброва Алевтина",
+    "photo": "./img/alevtina.png",
+    "age": 26,
+    "sex": "жен"
+  },
+  {
+    "name": "Иванов Дмитрийа",
+    "email": "dsdsd@list.ru",
+    "photo": "./img/dima.png",
+    "age": 26,
+    "sex": "муж"
+  },
+  {
+    "email": "nosikov@list.ru",
+    "photo": "./img/Path.svg",
+    "age": 26,
+    "sex": "жен"
+  },
+  {
+    "name": "Форс Александр",
+    "photo": "./img/alex.png",
+    "age": 26,
+    "sex": "муж"
+  },
+  {
+    "name": "Ахмедов Артур",
+    "photo": "./img/artur.png",
+    "age": 26,
+    "sex": "муж"
+  },
+  {
+    "name": "Блажевич Игорь",
+    "photo": "./img/igor.png",
+    "age": 26,
+    "sex": "муж"
+  },
+  {
+    "name": "Валиева Руфина",
+    "photo": "./img/ruf.png",
+    "age": 26,
+    "sex": "жен"
+  },
+  {
+    "name": "Волошина Виктория",
+    "photo": "./img/vika.png",
+    "age": 26,
+    "sex": "жен"
+  },
+  {
+    "name": "Кравцова Александра",
+    "photo": "./img/Oval.png",
+    "age": 26,
+    "sex": "жен"
+  }
+]

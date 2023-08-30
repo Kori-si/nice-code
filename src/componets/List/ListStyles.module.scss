@@ -1,0 +1,29 @@
+.list {
+    width: 366px;
+
+   
+
+    &__counter {
+        display: flex;
+        justify-content: space-between;
+        padding: 16px 10px 16px 15px;
+
+        &__count {
+            display: flex;
+
+            align-items: center;
+            border-radius: 9px;
+            background: var(--unnamed, #616f82);
+            color: white;
+
+            padding: 1px 4px;
+            font-size: 12px;
+        }
+
+        &__btn {
+            color: #616f82;
+        }
+    }
+
+    
+}

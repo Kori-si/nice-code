@@ -1,0 +1,97 @@
+.profile {
+    width: 744px;
+    min-height: 100%;
+    height: auto;
+
+    display: flex;
+    flex-direction: column;
+
+    &__header {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+
+        border-radius: 4px;
+        background: #fff;
+        box-shadow: 0px 1px 4px 0px rgba(30, 30, 30, 0.1);
+
+        &__cart {
+            display: flex;
+            flex-direction: row;
+            gap: 14px;
+            padding: 10px;
+
+            &__description {
+                padding-top: 5px;
+                h4 {
+                    font-size: 16px;
+                    font-style: normal;
+                }
+                p {
+                    font-size: 12px;
+                }
+            }
+        }
+
+        &__ets {
+            padding: 13px 16px;
+            height: 34px;
+        }
+    }
+
+    &__categories {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px 20px 13px 10px;
+        color: #616f82;
+        &__items {
+            display: flex;
+            p:not(:last-child)::after {
+                content: "|";
+                padding: 0 20px;
+            }
+        }
+
+        &__new {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            button {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                width: 26px;
+                height: 26px;
+                border: 1px solid #616f82;
+                border-radius: 20px;
+            }
+        }
+    }
+
+    &__content {
+        height: 100%;
+        border-radius: 4px;
+        background: var(--unnamed, #fff);
+        box-shadow: 0px 1px 4px 0px rgba(30, 30, 30, 0.1);
+
+        &__item {
+            display: flex;
+            padding: 10px;
+            &__ets {
+                display: flex;
+                align-items: center;
+                background: none;
+                border: 0;
+                padding: 13px 16px;
+                height: 34px;
+                cursor: pointer;
+            }
+        }
+    }
+   
+}
+.message {
+    background: #fff;
+    flex-grow: 1;
+}
