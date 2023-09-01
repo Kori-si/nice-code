@@ -1,74 +1,74 @@
 [
   {
     "name": "Кравцова Александра",
-    "photo": "./img/Oval.png",
+    "photo": "https://github.com/Kori-si/nice-code/blob/master/src/assets/contact/img/Oval.png?raw=true",
     "age": 26,
     "sex": "жен"
   },
   {
     "name": "Рожков Денис",
-    "photo": "./img/Den.png",
+    "photo": "https://github.com/Kori-si/nice-code/blob/master/src/assets/contact/img/Den.png?raw=true",
     "age": 30,
     "sex": "муж"
   },
   {
     "name": "Кравцова Александра",
-    "photo": "./img/Oval.png",
+    "photo": "https://github.com/Kori-si/nice-code/blob/master/src/assets/contact/img/Oval.png?raw=true",
     "age": 26,
     "sex": "жен"
   },
   {
     "name": "Диброва Алевтина",
-    "photo": "./img/alevtina.png",
+    "photo": "https://github.com/Kori-si/nice-code/blob/master/src/assets/contact/img/alevtina.png?raw=true",
     "age": 26,
     "sex": "жен"
   },
   {
-    "name": "Иванов Дмитрийа",
+    "name": "Иванов Дмитрий",
     "email": "dsdsd@list.ru",
-    "photo": "./img/dima.png",
+    "photo": "https://github.com/Kori-si/nice-code/blob/master/src/assets/contact/img/dima.png?raw=true",
     "age": 26,
     "sex": "муж"
   },
   {
     "email": "nosikov@list.ru",
-    "photo": "./img/Path.svg",
+    "photo": "https://raw.githubusercontent.com/Kori-si/nice-code/b199e74899e4eb26ce4be3c1ae942ccf64ac5a06/src/assets/contact/img/Path.svg",
     "age": 26,
     "sex": "жен"
   },
   {
     "name": "Форс Александр",
-    "photo": "./img/alex.png",
+    "photo": "https://github.com/Kori-si/nice-code/blob/master/src/assets/contact/img/alex.png?raw=true",
     "age": 26,
     "sex": "муж"
   },
   {
     "name": "Ахмедов Артур",
-    "photo": "./img/artur.png",
+    "photo": "https://github.com/Kori-si/nice-code/blob/master/src/assets/contact/img/artur.png?raw=true",
     "age": 26,
     "sex": "муж"
   },
   {
     "name": "Блажевич Игорь",
-    "photo": "./img/igor.png",
+    "photo": "https://github.com/Kori-si/nice-code/blob/master/src/assets/contact/img/igor.png?raw=true",
     "age": 26,
     "sex": "муж"
   },
   {
     "name": "Валиева Руфина",
-    "photo": "./img/ruf.png",
+    "photo": "https://github.com/Kori-si/nice-code/blob/master/src/assets/contact/img/ruf.png?raw=true",
     "age": 26,
     "sex": "жен"
   },
   {
     "name": "Волошина Виктория",
-    "photo": "./img/vika.png",
+    "photo": "https://github.com/Kori-si/nice-code/blob/master/src/assets/contact/img/vika.png?raw=true",
     "age": 26,
     "sex": "жен"
   },
   {
     "name": "Кравцова Александра",
-    "photo": "./img/Oval.png",
+    "photo": "https://github.com/Kori-si/nice-code/blob/master/src/assets/contact/img/Oval.png?raw=true",
     "age": 26,
     "sex": "жен"
   }

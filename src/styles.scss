@@ -22,3 +22,12 @@ html {
     min-height: 100%;
     height: auto;
 }
+
+summary {
+    display: block;
+  }
+  
+  summary::-webkit-details-marker {
+    display: none;
+  }
+  

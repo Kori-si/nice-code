@@ -2,12 +2,17 @@ import React from "react";
 // import exports from "webpack";
 import { Home } from "./componets/Home";
 
-export const SearchContext = React.createContext();
-function App() {
 
+export const SearchContext = React.createContext({
+  searchValue:  '',
+  setSearchValue: (searchValue: string) => {}
+});
+
+function App() {
   const [searchValue, setSearchValue] = React.useState("");
+
   return (
-    <SearchContext.Provider value={{ searchValue, setSearchValue }}>
+    <SearchContext.Provider value={{searchValue, setSearchValue} }>
       <Home />
     </SearchContext.Provider>
   );
